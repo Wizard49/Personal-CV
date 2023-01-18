@@ -1,0 +1,46 @@
+body {background-color: rgba(84, 211, 240, 0.844);}
+hr {
+  background-color:rgba(84, 211, 240, 0.844);
+  border-style: dotted none none;
+  border-color: rgb(0, 140, 255);
+  border-width: 15px;
+  height: 0px;
+  width: 10%;
+}
+h1 {
+    color: rgba(53, 63, 255, 0.901);
+    font-family: Bahnschrift;
+}
+h2 {
+    color: rgba(53, 63, 255, 0.901);
+}
+p {
+    color: blue;
+}
+ul {
+    color: rgba(53, 63, 255, 0.901);
+}
+li {
+    color:rgb(0, 146, 146);
+}
+ol {
+    color: rgba(53, 63, 255, 0.901);
+}
+h3 {
+    color:rgba(53, 63, 255, 0.901);
+}
+dl {
+    color: rgba(53, 63, 255, 0.901);
+}
+dt {
+    color: rgb(0, 146, 146);
+}
+dd {
+    color: rgb(0, 146, 146);
+}
+td {
+    color:rgb(0, 146, 146);
+}
+th {
+    color:rgb(0, 146, 146);
+}
